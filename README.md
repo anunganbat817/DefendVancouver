@@ -5,3 +5,6 @@ As the levels proceed, the challenge increases with increasing number of enemies
 Shooting aliens will earn a lot of points and collecting power-ups will help your performance in the game. 
 The goal is to defend the city and your aircraft from the aliens as long as possible. Keys: Use W, A, S, D to move. 
 The movement is according to the orientation of the player. Use the mouse to aim and shoot.
+
+game is downloadable from below website:
+http://www.cs.ubc.ca/~sheffa/games_course/previous/previous_games.html
